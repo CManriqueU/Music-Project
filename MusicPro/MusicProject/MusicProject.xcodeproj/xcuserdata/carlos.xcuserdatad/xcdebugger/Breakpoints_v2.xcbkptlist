@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicProject/ViewController.swift"
+            timestampString = "609635533.966378"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicProject/ViewController.swift"
+            timestampString = "609635533.966457"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicProject/ViewController.swift"
+            timestampString = "609635533.966511"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MusicProject/SecondViewController.swift"
+            timestampString = "613962651.830846"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicProject.SecondViewController.numberOfButtons.getter : Swift.Int"
+                  moduleName = "MusicProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlos/Desktop/MusicPro/MusicProject/MusicProject/SecondViewController.swift"
+                  timestampString = "610057915.1561199"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicProject.SecondViewController.numberOfButtons.setter : Swift.Int"
+                  moduleName = "MusicProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlos/Desktop/MusicPro/MusicProject/MusicProject/SecondViewController.swift"
+                  timestampString = "610057915.259773"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicProject.SecondViewController.numberOfButtons.modify : Swift.Int"
+                  moduleName = "MusicProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlos/Desktop/MusicPro/MusicProject/MusicProject/SecondViewController.swift"
+                  timestampString = "610057915.262253"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicProject.SecondViewController.numberOfButtons.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MusicProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlos/Desktop/MusicPro/MusicProject/MusicProject/SecondViewController.swift"
+                  timestampString = "610057915.264716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicProject.SecondViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MusicProject.SecondViewController"
+                  moduleName = "MusicProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlos/Desktop/MusicPro/MusicProject/MusicProject/SecondViewController.swift"
+                  timestampString = "610057915.26691"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "333">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MusicProject.SecondViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MusicProject.SecondViewController&gt;"
+                  moduleName = "MusicProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/carlos/Desktop/MusicPro/MusicProject/MusicProject/SecondViewController.swift"
+                  timestampString = "610057915.269341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
